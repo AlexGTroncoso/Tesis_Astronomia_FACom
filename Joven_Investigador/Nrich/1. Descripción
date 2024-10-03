@@ -6,3 +6,5 @@ En esta carpeta se encuentran los notebooks más relevantes de la investigación
 3. Los archivos denóminados "TJ_.py" son los archivos utilizados para correr la simulación en wabe.
 4. Los archivos "Mass_dist.csv" contienen la información de la distribución de masas resultante para cada uno de los objetos.
 5. Demás archivos menos relevantes.
+
+Nota: Los archivos extraídos de The Joker por medio de wabe [hdf5] no se encuentran aquí, debido a que son muy pesados para subirse.
