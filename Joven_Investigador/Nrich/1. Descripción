@@ -1,0 +1,6 @@
+En esta carpeta se encuentran los notebooks más relevantes de la investigación, en donde se estudian diferentes puntos relevantes:
+1. Tenemos aquí el análisis de la variación intrínseco del instrumento FIDEOS, es aquí donde se hace la recopilación de los objeto más relevantes en cuento a variación de Velocidad Radial, además se recopilan los resultados de los demás archivos .ipyb
+2. Los archivos que se llaman "VR_Joker_" son los archivos que contienen toda la información y análisis de cada objeto en partícular, teniendo en cuenta las simulaciones obtenidas por The Joker.
+3. Los archivos denóminados "TJ_.py" son los archivos utilizados para correr la simulación en wabe.
+4. Los archivos "Mass_dist.csv" contienen la información de la distribución de masas resultante para cada uno de los objetos.
+5. Demás archivos menos relevantes.
