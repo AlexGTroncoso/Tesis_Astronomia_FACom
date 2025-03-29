@@ -12,13 +12,12 @@ Para ello, analizamos datos obtenidos con el **Fiber Dual Echelle Optical Spectr
 
 Nuestros resultados sugieren lo siguiente:
 
-- La estrella **TYC 4686-2039-1** podría albergar una **enana blanca** con una masa de  
-  \( 0.5174_{-0.0024}^{+0.0021} ~M_\odot \).
+- La estrella **TYC 4686-2039-1** podría albergar una **enana blanca** con una masa de 0.5174 (+0.0021 / -0.0024) M⊙.
 
-- Identificamos **cinco objetos con compañeras subestelares** en el rango de enanas rojas y marrones  
-  (\( 0.016_{-0.003}^{+0.005} \) a \( 0.12_{-0.03}^{+0.12} ~ M_\odot \)).
+- Identificamos **cinco objetos con compañeras subestelares** en el rango de enanas rojas y marrones 0.016 (+0.005 / -0.003) y 0.12 (+0.12 / -0.03) M⊙.
 
-- **Dos sistemas sugieren la presencia de compañeras de masa planetaria**, con masas tipo Júpiter de  
-  \( 0.0078_{-0.0009}^{+0.0034} ~ M_\odot \) y \( 0.00197_{-0.00005}^{+0.00014} ~ M_\odot \).
+- **Dos sistemas sugieren la presencia de compañeras de masa planetaria**, con masas tipo Júpiter de 0.0078 (+0.0034 / -0.0009) y 0.00197 (+0.00014 / -0.00005) M⊙.
+
 
 Estos hallazgos refuerzan la hipótesis de que el enriquecimiento químico característico de estas estrellas peculiares podría estar relacionado con una amplia diversidad de compañeras binarias, incluyendo objetos estelares, subestelares y planetarios.
+
